@@ -6,4 +6,9 @@ They are named after [my grandfather](http://en.wikipedia.org/wiki/Willard_Van_O
 
 Here are some.
 
-There are a lot more on [c2.com](http://c2.com/cgi/wiki?QuineProgram) and [Gary Thompson II's The Quine Page](http://www.nyx.net/~gthompso/quine.htm).
+--------
+
+Links:
+
+* [c2.com](http://c2.com/cgi/wiki?QuineProgram)
+* [Gary Thompson II's The Quine Page](http://www.nyx.net/~gthompso/quine.htm)
