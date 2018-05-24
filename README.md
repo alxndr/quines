@@ -12,3 +12,4 @@ Links:
 
 * [c2.com](http://c2.com/cgi/wiki?QuineProgram)
 * [Gary Thompson II's The Quine Page](http://www.nyx.net/~gthompso/quine.htm)
+* [David Madore's Quines page](http://www.madore.org/~david/computers/quine.html)
