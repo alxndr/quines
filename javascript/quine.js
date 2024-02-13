@@ -1,1 +1,1 @@
-quote='"'; code="quote='%s'; code=%s%s%s; console.log(code, quote, quote, code, quote)"; console.log(code, quote, quote, code, quote)
+code="code=%s%s%s; console.log(code, String.fromCharCode(0x22), code, String.fromCharCode(0x22))"; console.log(code, String.fromCharCode(0x22), code, String.fromCharCode(0x22))
