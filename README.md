@@ -1,10 +1,11 @@
-# [Quines](http://en.wikipedia.org/wiki/Quine_%28computing%29)
+# [quines](http://en.wikipedia.org/wiki/Quine_%28computing%29)
 
 "A quine is a computer program which takes no input and produces a copy of its own source code as its only output.["](http://en.wikipedia.org/wiki/Quine_%28computing%29)
+Using the file system is cheating!
 
-They are named after [my grandfather](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine).
+They are named after [Willard Van Orman Quine](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine) (my grandfather).
 
-Here are some.
+Here are some examples, in a bunch of different languages…
 
 --------
 
